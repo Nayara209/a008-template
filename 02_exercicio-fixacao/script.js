@@ -13,14 +13,14 @@
 // )
 
 // EXERCICIO 02
-const a = 'vou pra praia'
-const b = 'sou maior de idade'
-const c = 'posso tomar uma cervejinha'
-const d = 'quero passear de carro'
+// const a = 'vou pra praia'
+// const b = 'sou maior de idade'
+// const c = 'posso tomar uma cervejinha'
+// const d = 'quero passear de carro'
 
 // !b && d // E
 // (b && a) && !d
 // a || d // 0U
 // c && !d
 
-//Luana Torquato nao tem acesso a todos os videos do drive
+
