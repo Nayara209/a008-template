@@ -59,6 +59,3 @@
 // b && (c || d)
 // (b && e) && !a
 
-// binaria = 0 1
-// 0 = false | se nao tem nada na variavel, ela é 0, ela é false
-// 1 = true | se tiver alguma coisa na variavel, ela é 1, ela é true
